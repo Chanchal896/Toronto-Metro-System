@@ -1,0 +1,69 @@
+Kipling,Islington,3
+Islington,Royal York,2
+Royal York,Old Mill,2
+Old Mill,Jane,1
+Jane,Runnymede,1
+Runnymede,High Park,1
+High Park,Keele,1
+Keele,Dundas West,1
+Dundas West,Lansdowne,1
+Lansdowne,Dufferin,1
+Dufferin,Ossington,1
+Ossington,Christie,1
+Christie,Bathurst,1
+Bathurst,Spadina,1
+St George,Bay,1
+Bay,Bloor-Yonge,1
+Bloor-Yonge,Sherbourne,1
+Sherbourne,Castle Frank,1
+Castle Frank,Broadview,1
+Broadview,Chester,1
+Chester,Pape,1
+Pape,Donlands,1
+Donlands,Greenwood,1
+Greenwood,Coxwell,2
+Coxwell,Woodbine,1
+Woodbine,Main Street,1
+Main Street,Victoria Park,1
+Victoria Park,Warden,2
+Warden,Kennedy,3
+Kennedy,Lawrence East,3
+Lawrence East,Ellesmere,2
+Ellesmere,Midland,1
+Midland,Scarborough Centre,1
+Scarborough Centre,McCowan,1
+Downsview,Wilson,3
+Wilson,Yorkdale,2
+Yorkdale,Lawrence West,2
+Lawrence West,Glencairn,1
+Glencairn,Eglinton West,1
+Eglinton West,St Clair West,3
+St Clair West,Dupont,2
+Dupont,Spadina,1
+Spadina,St George,1
+St George,Museum,1
+Museum,Queen's Park,1
+Queen's Park,St Patrick,1
+St Patrick,Osgoode,1
+Osgoode,St Andrew,1
+St Andrew,Union,1
+Union,King,1
+King,Queen,1
+Queen,Dundas,1
+Dundas,College,1
+College,Wellesley,1
+Wellesley,Bloor-Yonge,1
+Bloor-Yonge,Rosedale,1
+Rosedale,Summerhill,1
+Summerhill,St Clair,1
+St Clair,Davisville,2
+Davisville,Eglinton,2
+Eglinton,Lawrence,3
+Lawrence,York Mills,2
+York Mills,Sheppard-Yonge,3
+Sheppard-Yonge,North York Centre,1
+North York Centre,Finch,2
+Sheppard-Yonge,Bayview,3
+Bayview,Bessarion,2
+Bessarion,Leslie,2
+Leslie,Don Mills,2
